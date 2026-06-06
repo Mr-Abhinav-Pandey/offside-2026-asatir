@@ -1,11 +1,11 @@
 # OffSide 2026 Football Analytics Challenge
 
-## Team <Team Name>
+## asatir
 
 ### Team Members
 
-* Abhinav
-* <Teammate Name>
+* Abhinav Pandey
+* Arya Shekhar
 
 ---
 
